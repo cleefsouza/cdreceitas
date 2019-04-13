@@ -10,6 +10,7 @@ Diretório padrão `c:\xampp\htdocs`
 ```
 $ git clone https://github.com/cleefsouza/cdreceitas.git
 ```
+Copie e cole os arquivos na pasta onde esta a instalação do Wordpress<br>
 
 ### Start
 1. Inicie o XAMPP;
